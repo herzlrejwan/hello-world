@@ -7,3 +7,4 @@
 # Sixth change on my-branch
 # 7 change on my-branch
 # 8 change on master - resolved conflict
+# 9 change on master before rebase of my-branch branch
