@@ -5,4 +5,5 @@
 # forth change
 # fifth change
 # Sixth change on my-branch
-# 7 change on master"
+# 7 change on my-branch
+# 8 change on master - resolved conflict
